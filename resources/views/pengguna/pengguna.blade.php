@@ -1,7 +1,5 @@
-@extends('pengguna.layout.main')
-
+@extends('tampilan.main')
 @section('title', 'Manajemen Pengguna')
-
 @section('content')
 
     <h2>Daftar Pengguna</h2>

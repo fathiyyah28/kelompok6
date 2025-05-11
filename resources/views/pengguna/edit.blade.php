@@ -1,4 +1,4 @@
-@extends('pengguna.layout.main')
+@extends('tampilan.main')
 @section('content')
 <div class="container mt-4">
     <h2>Edit Pengguna</h2>
